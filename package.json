@@ -1,0 +1,19 @@
+{
+  "name": "personal-website",
+  "version": "0.0.1",
+  "description": "personal blog and stuff",
+  "main": "index.js",
+  "authors": {
+    "name": "guillaume",
+    "email": "guillaume.hochet@gmail.com"
+  },
+  "repository": "/personal-website",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
